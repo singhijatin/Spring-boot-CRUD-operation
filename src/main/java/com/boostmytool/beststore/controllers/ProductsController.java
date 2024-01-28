@@ -67,7 +67,7 @@ public class ProductsController {
                         StandardCopyOption.REPLACE_EXISTING);
             }
         }catch (Exception e){
-            System.out.println("Exception:" + e.getMessage());+
+            System.out.println("Exception:" + e.getMessage());
         }
 
         Product product = new Product();
