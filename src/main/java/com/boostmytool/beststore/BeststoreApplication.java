@@ -9,6 +9,7 @@ public class BeststoreApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BeststoreApplication.class, args);
 	}
-	//This is to-do content
-	//Make changes in Local
+	//Main File
+	//This is to-do more content need to be added
+	//I made changes in Remote. Take the Pull.
 }
